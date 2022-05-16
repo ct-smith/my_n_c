@@ -7,13 +7,7 @@ My.n.c  (My network conciergeの略称)
 海外に定住している日本人と日本人旅行者やビジネス渡航者をつなげるマッチングアプリケーション。
 
 # URL
-
-
-# テスト用アカウント
-
-
-# 利用方法
-
+現在製作中。
 
 # アプリケーションを作成した背景
 ペルソナ　①海外に定住している日本人
@@ -28,8 +22,6 @@ My.n.c  (My network conciergeの略称)
 
 # 洗い出した要件
 https://docs.google.com/spreadsheets/d/1euGCisikT3shwwDBfEfv6BrpywCus68Y4osQU1Dl42Y/edit#gid=982722306
-
-# 実装した機能についての画像やGIFおよびその説明
 
 
 # 実装予定の機能
@@ -69,9 +61,6 @@ Ruby on rails
 my sql 
 
 テキストエディタ
-
-
-# ローカルでの動作方法
 
 
 # 工夫したポイント
